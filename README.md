@@ -17,8 +17,8 @@ This project performs an exploratory data analysis (EDA) on the Paris Olympics 2
 
 1. Clone the repository
 
-git clone https://github.com/[username]/Project-1-Paris-Olympics-EDA.git
-cd Project-1-Paris-Olympics-EDA
+git clone https://github.com/padaganti-vaishnavi/Paris-Olympics-EDA.git
+cd Paris-Olympics-EDA
 
 2. Create and activate virtual environment
 
